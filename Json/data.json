@@ -1,0 +1,44 @@
+{
+	"products":[
+		{
+			"productname" : "Spark",
+			"description" : "Push your creative boundaries with DJI's palm-sized Spark",
+			"price" : 499,
+			"function" : [
+				"PalmLaunch",
+				"Gesture",
+				"QuickShot"
+			]
+		},
+		{
+			"productname" : "Mavic",
+			"description" : "Portable yet powerful, the Mavic Pro is your personal drone, ready to go with you everywhere",
+			"price" : 999,
+			"function" : [
+				"65 KM/H",
+				"4K",
+				"3-Axis"
+			]
+		},
+		{
+			"productname" : "Phantom 4 Pro",
+			"description" : "1-inch 20MP Exmor R CMOS sensor, longer flight time and smarter features",
+			"price" : 1.999,
+			"function" : [
+				"1-inch Image Sensor",
+				"73 KM/H",
+				"4K 60fps"
+			]
+		},
+		{
+			"productname" : "DJI Goggles",
+			"price" : "449"
+		},
+		{
+
+		},
+		{
+
+		}
+	]
+}

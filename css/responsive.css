@@ -1,0 +1,116 @@
+
+
+@media only screen and (max-width: 1024px) and (min-width: 375px)
+{
+	.product, .service{
+		height: auto;
+	}
+	.product8{
+	width: 48.5%;	
+	margin-right: 3%;
+	height: 400px;
+		
+	}
+
+	.product8:not(:last-child) {
+	    margin-bottom: 3%;
+	}
+
+	.product8:nth-child(2), .product8:nth-child(4), .product8:nth-child(6) {
+	    margin-right: 0;
+	}
+	.pic-1, .pic-2, .pic-3, .pic-4, .pic-5, .pic-6, .pic-7, .pic-8{
+		width: 250px;
+		text-align: center;
+	    display: inline-block;
+	}
+	.product8 img {
+	    width: 100%;
+	}
+	.namepd{
+		font-size: 30px;
+	}
+	.pricepd{
+	    font-size: x-large;
+	}
+	.divservice {
+	    font-size: xx-large;
+	}
+	.service-container{
+		width: 48.5%;
+	    height: 400px;
+	    margin-right: 3%;
+	    margin-bottom: 3%;
+	}
+	.service-container:nth-child(2), .service-container:nth-child(4){
+		margin-right: 0;
+	}
+	.service-container:nth-child(3), .service-container:nth-child(4){
+		margin-bottom: 0;
+	}
+	.service-container img {
+	    width: 250px;
+	}
+	.information,.footer {
+		display: none;
+	}
+	.mb-footer{
+		display: block;
+	}
+	.mb-social-media ul, .mb-privacy-policy ul{
+		padding: 0;
+		text-align: center;
+		margin: 15px 0 0 0;
+	}
+	.mb-social-media ul li{
+		display: inline-block;
+		font-size: 2.5em;
+    	margin-right: 1.5%;
+	}
+	.mb-social-media ul li a:link, .mb-social-media ul li a:visited, .mb-privacy-policy ul li a:link, .mb-privacy-policy ul li a:visited{
+		color: #7b7f7e;
+		text-decoration: none;
+	}
+	.mb-privacy-policy ul li{
+		display: inline-block;
+		font-size: 1.5em;
+		padding: 0% 1.5%;
+		border-right: 1px solid lightblue;
+	}
+	.mb-privacy-policy ul li:last-child{
+		border-right: none;
+	}
+	.mb-copyrights{
+		margin: 15px 0;
+		width: 100%;
+		display: inline-block;
+		text-align: center;
+	}
+	.mb-copyrights span{
+		font-size: 1.4em;
+		color: #999;
+	}
+	.mb-social-media{
+		clear: left;
+	}
+	.shipping_online{
+		box-sizing: border-box;
+		box-shadow: none;
+		height: auto;
+		margin-top: 25px;
+    	display: inline-block;
+    	background: none;
+	}
+	.style_shipping{
+		margin-top: 20px;
+		margin-bottom: 30px;
+		width: 100%;
+		background-color: white;
+		display: inline-block;
+    	padding-bottom: 5%;
+	}
+	.style_shipping h4 {
+    font-size: 2em;
+	}
+
+}
