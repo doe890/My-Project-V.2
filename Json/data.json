@@ -8,7 +8,8 @@
 				"PalmLaunch",
 				"Gesture",
 				"QuickShot"
-			]
+			],
+			"company" : "DJI"
 		},
 		{
 			"productname" : "Mavic",
@@ -18,7 +19,8 @@
 				"65 KM/H",
 				"4K",
 				"3-Axis"
-			]
+			],
+			"company" : "DJI"
 		},
 		{
 			"productname" : "Phantom 4 Pro",
@@ -28,17 +30,8 @@
 				"1-inch Image Sensor",
 				"73 KM/H",
 				"4K 60fps"
-			]
-		},
-		{
-			"productname" : "DJI Goggles",
-			"price" : "449"
-		},
-		{
-
-		},
-		{
-
+			],
+			"company" : "DJI"
 		}
 	]
 }

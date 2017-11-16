@@ -1,0 +1,153 @@
+.spark-banner{
+	width: 100%;
+	position: relative;
+	background: url('../images/spark/spark-banner.jpg') center center;
+	height: 500px;
+	background-size: cover;
+    min-width: 1200px;
+}
+.bgbanner{
+	width: 100%;
+	position: absolute;
+	color: white;
+	top: 40%;
+}
+
+section.bgbanner h1 {
+    font-size: 50px;
+    text-align: center;
+    margin:0;
+}
+.showproduct_sizebar {
+    float: left;
+    width: 49%;
+    box-sizing: border-box;
+    height: 300px;
+}
+
+.showproduct_img, .spark_info {
+    width: 49%;
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.showproduct_img img {
+    width: 100%;
+}
+.showproduct_sizebar:nth-of-type(1) {
+    margin-right: 2%;
+}
+
+.showproduct {
+    margin: 0 auto;
+    width: 1200px
+}
+.sparklink:hover, .sparklink:visited {
+	color: #333;
+	box-shadow: 0px 4px 6px 0 #ccc;
+}
+a.sparklink {
+    background: white;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+}
+span.price_spark {
+    color: #00BCD4;
+}
+.spark_info > h2{
+	text-transform: uppercase;
+}
+.spark_info {
+    padding: 0 5%;
+    word-break: break-word;
+    font-family: 'Muli', sans-serif;
+}
+span.price_spark:nth-of-type(2) {
+    text-decoration: line-through;
+    color: gray;
+}
+.popular_accessories {
+    width: 24.25%;
+    height: 300px;
+    float: left;
+    margin-right: 1%;
+}
+.popular_accessories > a {
+    color: #333;
+    text-decoration: none;
+    background-color: white;
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+}
+.popular_accessories > a:hover {
+    box-shadow: 0 3px 6px 0 grey;
+}
+.accessories {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.accessories > h4, .accessories > span {
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 0;
+    font-family: muli;
+    padding: 0 5%;
+    box-sizing: border-box;
+}
+}
+.accessories > h4{
+	margin-bottom: 15px;
+}
+.img {
+    width: 70%;
+    height: 220px;
+    margin: 0 auto;
+}
+
+.img > img {
+    width: 100%;
+    height: 100%;
+}
+.accessories > span {
+    color: #03A9F4;
+    position: absolute;
+    top: 90%;
+}
+.popular_accessories:nth-of-type(4) {
+    margin-right: 0;
+}
+.popular {
+    padding-bottom: 2%;
+    width: 100%;
+    display: inline-block;
+    border-bottom: 1px solid gray;
+}
+.product_pre_order{
+    width: 100%;
+    height:auto;
+}
+.product_preview{
+    width: 50%;
+    box-sizing: border-box;
+}
+.fotorama__stage{
+    background:white;
+    border-radius: 5px;
+}
+.shortlink a:link {
+    text-decoration: none;
+    color: #333;
+    font-family: muli;
+}
+.shortlink {
+    margin-bottom: 20px;
+}

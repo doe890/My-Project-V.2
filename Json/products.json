@@ -1,0 +1,96 @@
+[
+		{
+			"productname" : "dji goggles",
+			"price" : "449",
+			"image" : "pic-1.png",
+			"type" : "virtual reality",
+			"brand" : "dji"
+		},
+		{
+			"productname" : "mavic - intelligent flight battery",
+			"price" : "89",
+			"image" : "pic-2.png",
+			"type" : "batteries",
+			"brand" : "dji"
+
+		},
+		{
+			"productname" : "mavic - qucik-release folding propellers",
+			"price" : "9",
+			"image" : "pic-3.png",
+			"type" : "propellers",
+			"brand" : "dji"
+
+		},
+		{
+			"productname" : "mavic - propeller guard",
+			"price" : "15",
+			"image" : "pic-4.png",
+			"type" : "propellers",
+			"brand" : "dji"
+
+		},
+		{
+			"productname" : "mavic - remote controller monitor hood",
+			"price" : "19",
+			"image" : "pic-5.png",
+			"type" : "remotes",
+			"brand" : "dji"
+
+		},
+		{
+			"productname" : "mavic - aircraft sleeve",
+			"price" : "7",
+			"image" : "pic-6.png",
+			"type" : "sleeve",
+			"brand" : "sony"
+
+		},
+		{
+			"productname" : "drone landing pad",
+			"price" : "17",
+			"image" : "pic-7.png",
+			"type" : "landing pad",
+			"brand" : "samsung"
+
+		},
+		{
+			"productname" : "sandisk - extreme microsd card 64gb",
+			"price" : "34",
+			"image" : "pic-8.png",
+			"type" : "memory cards",
+			"brand" : "samsung"
+
+		},
+		{
+			"productname" : "mavic mow-noise quick-release propellers",
+			"price" : "10",
+			"image" : "pic-9.png",
+			"type" : "propellers",
+			"brand" : "dji"
+
+		},
+		{
+			"productname" : "phantom series multifunctional backpack",
+			"price" : "199",
+			"image" : "pic-10.png",
+			"type" : "bags",
+			"brand" : "sony"
+		},
+		{
+			"productname" : "phantom 4 series battery charging hub",
+			"price" : "90",
+			"image" : "pic-11.png",
+			"type" : "batteries",
+			"brand" : "apple"
+
+		},
+		{
+			"productname" : "spark battery charging hub",
+			"price" : "69",
+			"image" : "pic-12.png",
+			"type" : "batteries",
+			"brand" : "apple"
+
+		}
+]
